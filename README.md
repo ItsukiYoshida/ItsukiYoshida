@@ -28,4 +28,4 @@ I am open to opportunities for:
 
 - 🌱 I’m currently diving deep into advanced HPC techniques.
 - 💬 Ask me about Linux, GPU programming, or any HPC-related topics.
-- 📫 How to reach me: [Email me](plusion.yi@gmail.com)
+- 📫 How to reach me: [Email me](mailto:plusion.yi@gmail.com)
